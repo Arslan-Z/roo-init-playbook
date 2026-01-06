@@ -408,12 +408,8 @@ Next actions
 * Do not run destructive commands outside the project directory
 * Do not silently install system dependencies unless explicitly allowed
 * Prefer project-scoped initialization for reproducibility
-
 ---
 
-
-(Alternatives: `roo-project-bootstrap`, `roo-bootstrap`;
-avoid `my-roo-flow` — too personal and abstract.)
 
 ---
 
